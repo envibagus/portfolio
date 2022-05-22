@@ -736,6 +736,9 @@ aside:before {
   .comments .comment .thumb {
     margin: 0 auto;
   }
+  .l3{
+    display: none;
+  }
 }
 
 .comments .comment a {
