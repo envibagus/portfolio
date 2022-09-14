@@ -1212,3 +1212,6 @@ ul.tag-list li {
   background-repeat: repeat;
   opacity: 0.340;
 }
+.container > .row.mb-xl > .col-md-12{
+  margin-top: 20px;
+}
