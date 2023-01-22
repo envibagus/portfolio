@@ -1,0 +1,43 @@
+{
+  "customer_info": {
+    "name": "John Smith",
+    "dob": "01/01/1980",
+    "address": "123 Main St, Anytown USA 12345",
+    "phone": "555-555-5555",
+    "email": "johnsmith@example.com"
+  },
+  "current_insurance_info": {
+    "policy_number": "XYZ789",
+    "coverage_amount": 50000,
+    "coverage_type": "term",
+    "start_date": "01/01/2021",
+    "end_date": "01/01/2022",
+    "premium": 250
+  },
+  "new_insurance_info": {
+    "policy_number": "ABC123",
+    "coverage_amount": 100000,
+    "coverage_type": "term",
+    "start_date": "01/01/2022",
+    "end_date": "01/01/2023",
+    "premium": 500
+  },
+  "kyc_documents": {
+    "id_proof": [
+      {
+        "type": "passport",
+        "number": "123456789",
+        "expiry_date": "01/01/2025",
+        "scan": "https://envibagus.netlify.app/images/temp/passport.png"
+      }
+    ],
+    "address_proof": [
+      {
+        "type": "utility_bill",
+        "provider": "Electric Company",
+        "issue_date": "01/01/2022",
+        "scan": "https://envibagus.netlify.app/images/temp/invoice.png"
+      }
+    ]
+  }
+}
