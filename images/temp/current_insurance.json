@@ -1,0 +1,10 @@
+{
+  "current_insurance_info": {
+    "policy_number": "XYZ789",
+    "coverage_amount": 50000,
+    "coverage_type": "term",
+    "start_date": "01/01/2021",
+    "end_date": "01/01/2022",
+    "premium": 250
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kyc_documents": {
+    "id_proof": [
+      {
+        "type": "passport",
+        "number": "123456789",
+        "expiry_date": "01/01/2025",
+        "scan": "https://envibagus.netlify.app/images/temp/passport.png"
+      }
+    ],
+    "address_proof": [
+      {
+        "type": "utility_bill",
+        "provider": "Electric Company",
+        "issue_date": "01/01/2022",
+        "scan": "https://envibagus.netlify.app/images/temp/invoice.png"
+      }
+    ]
+  } 
+}

@@ -1,0 +1,9 @@
+{
+  "customer_info": {
+    "name": "John Smith",
+    "dob": "01/01/1980",
+    "address": "123 Main St, Anytown USA 12345",
+    "phone": "555-555-5555",
+    "email": "johnsmith@example.com"
+  },
+}
