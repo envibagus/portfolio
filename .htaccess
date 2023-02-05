@@ -1,2 +1,2 @@
-RedirectMatch 301 ^/resume /files/Envi_Resume.pdf
-RedirectMatch 301 ^/portfolio /files/Envi_Portfolio.pdf
+RedirectMatch /resume/ https://envibagus.netlify.app/files/Envi_Resume.pdf
+RedirectMatch portfolio/ https://envibagus.netlify.app/files/Envi_Portfolio.pdf
